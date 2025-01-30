@@ -39,8 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/luger-mano/luger-mano/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h2 align="left">Social Media</h2>
