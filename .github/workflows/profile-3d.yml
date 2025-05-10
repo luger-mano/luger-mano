@@ -2,7 +2,7 @@ name: GitHub Profile 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 18 * * *" # Executa diariamente às 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
