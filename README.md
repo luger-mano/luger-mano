@@ -1,24 +1,18 @@
 <header>
   <h2 align="center">👋 E aí, eu sou o Lucas!</h2>
 </header>
+
 <main>
-    <div class="card-profile">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./imagens/profile-card.png">
-          <source media="(prefers-color-scheme: light)" srcset="./imagens/profile-card.png">
-          <img src="./imagens/profile-card.png" alt="Profile card">
-        </picture>
-    </div>
-    <br>
-    <br>
-    <div class="badges">
-        <p align="center">
-            <picture id="linux">
-                <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-F5F5F5?style=flat&logo=linux">
-                <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
-                <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Show a badge">
-            </picture>
-            <picture id="java">
+  <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
+    <div style="flex:1;">
+      <div class="badges">
+        <p>
+          <picture id="linux">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-F5F5F5?style=flat&logo=linux">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
+            <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
+          </picture>
+          <picture id="java">
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Java-F5F5F5?style=flat&logo=openjdk">
                 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk">
                 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk" alt="Show a badge">
@@ -129,33 +123,44 @@
                 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="Show a badge">
             </picture>
         </p>
-    </div>
-    <br>
-    <div class="description">
-        <h3 id="title" align="center">🤔 Um pouco sobre mim...</h3>
+      </div>
+      <br>
+      <div class="description">
+        <h3 id="title">🤔 Um pouco sobre mim...</h3>
         <ul id="list">
-            <li>💼 Estou em busca de uma nova oportunidade.
-            <li>🚀 Quer construir um sistema comigo? <a href="https://www.linkedin.com/in/lucas-germano-dev/">entre em contato</a>.</li>
-            <li>📂 Meu Portfólio e Currículo <a href="https://drive.google.com/drive/folders/1xWBApt-a2NfeCr_H8gF2lfoFk07YKJQD?usp=sharing">por aqui</a>.</li>
-            <li>🌙 Um dos criadores do <strong>Luna</strong> <a href="https://github.com/LunaLPWI">repositório</a>.</li>
-            <li>💬 Pergunte o que quiser <strong>Java, Spring Boot, Docker, <b>AWS, integração de APIs, arquitetura limpa e boas práticas no backend</b></strong>.</li>
+          <li>💼 Estou em busca de uma nova oportunidade.</li>
+          <li>🚀 Quer construir um sistema comigo? <a href="https://www.linkedin.com/in/lucas-germano-dev/">entre em contato</a>.</li>
+          <li>📂 Meu Portfólio e Currículo <a href="https://drive.google.com/drive/folders/1xWBApt-a2NfeCr_H8gF2lfoFk07YKJQD?usp=sharing">por aqui</a>.</li>
+          <li>🌙 Um dos criadores do <strong>Luna</strong> <a href="https://github.com/LunaLPWI">repositório</a>.</li>
+          <li>💬 Pergunte o que quiser <strong>Java, Spring Boot, Docker, AWS, integração de APIs, arquitetura limpa e boas práticas no backend</strong>.</li>
         </ul>
+      </div>
     </div>
+    <!-- DIREITA: SUA IMAGEM -->
+    <div style="flex:0 0 auto;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./imagens/profile-card.png">
+        <source media="(prefers-color-scheme: light)" srcset="./imagens/profile-card.png">
+        <img src="./imagens/profile-card.png" alt="Profile card" width="320">
+      </picture>
+    </div>
+  </div>
 </main>
+
 <footer>
   <p class="social-media" align="center">
     <a id="linkedin" href="https://www.linkedin.com/in/lucas-germano-dev/" target="_blank">
       <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/stephan-lopes/df6b5fbbf5e055bff234b91678b1c421/raw/0be42bce20156533ac0a183187cb8a962db2a664/linkedin-dark.svg">
         <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/stephan-lopes/df6b5fbbf5e055bff234b91678b1c421/raw/58b820ea7cc3f7f05e585645b271bd7f13757327/linkedin.svg">
-        <img src="https://gist.githubusercontent.com/stephan-lopes/df6b5fbbf5e055bff234b91678b1c421/raw/0be42bce20156533ac0a183187cb8a962db2a664/linkedin-dark.svg" alt="Shows badge link to linkedin">
+        <img src="https://gist.githubusercontent.com/stephan-lopes/df6b5fbbf5e055bff234b91678b1c421/raw/0be42bce20156533ac0a183187cb8a962db2a664/linkedin-dark.svg">
       </picture>
     </a>
     <a id="github" href="https://github.com/luger-mano" target="_blank">
       <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GitHub-F5F5F5?style=flat&logo=github&logoColor=black">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
-        <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="Shows badge link to github">
+        <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
       </picture>
     </a>
   </p>
