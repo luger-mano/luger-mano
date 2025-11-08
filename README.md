@@ -132,7 +132,7 @@
   </div>
   
   <br> <div class="description">
-    <h3 id="title">🤔 Um pouco sobre mim...</h3>
+    <h3 id="title" align="center">🤔 Um pouco sobre mim...</h3>
     <ul id="list">
       <li>💼 Estou em busca de uma nova oportunidade.</li>
       <li>🚀 Quer construir um sistema comigo? <a href="https://www.linkedin.com/in/lucas-germano-dev/">entre em contato</a>.</li>
