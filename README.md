@@ -3,9 +3,8 @@
 </header>
 
 <div>
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td valign="top">    
+  <div border="0" cellpadding="0" cellspacing="0" width="100%">
+      <div valign="top">    
         <div class="badges">
           <p>
             <picture id="linux">
@@ -136,16 +135,15 @@
             <li>💬 Pergunte o que quiser <strong>Java, Spring Boot, Docker, AWS, integração de APIs, arquitetura limpa e boas práticas no backend</strong>.</li>
           </ul>
         </div>
-      </td>
-      <td valign="top" width="340" align="right"> 
+      </div>
+      <div valign="top" width="340" align="right"> 
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./imagens/profile-card.png">
           <source media="(prefers-color-scheme: light)" srcset="./imagens/profile-card.png">
           <img src="./imagens/profile-card.png" alt="Profile card" width="320">
         </picture>
-      </td>
-      </tr>
-  </table>
+      </div>
+  </div>
 </div>
 <footer>
   <p class="social-media" align="center">
