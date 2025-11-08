@@ -3,7 +3,6 @@
 </header>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
     <td valign="top">    
       <div class="badges">
         <p>
@@ -143,7 +142,6 @@
         <img src="./imagens/profile-card.png" alt="Profile card" width="320">
       </picture>
     </td>
-    </tr>
 </table>
 <footer>
   <p class="social-media" align="center">
