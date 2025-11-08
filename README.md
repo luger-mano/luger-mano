@@ -4,9 +4,9 @@
 <main>
     <div class="card-profile">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./imagens/profile-card.svg">
-          <source media="(prefers-color-scheme: light)" srcset="./imagens/profile-card.svg">
-          <img src="./imagens/profile-card.svg" alt="Profile card">
+          <source media="(prefers-color-scheme: dark)" srcset="./imagens/profile-card.png">
+          <source media="(prefers-color-scheme: light)" srcset="./imagens/profile-card.png">
+          <img src="./imagens/profile-card.png" width="378" height="571" alt="Profile card">
         </picture>
     </div>
     <br>
