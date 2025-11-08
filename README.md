@@ -12,7 +12,7 @@
   </div>
 
   <div class="badges">
-    <p>
+    <p align="center">
       <picture id="linux">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-F5F5F5?style=flat&logo=linux">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
