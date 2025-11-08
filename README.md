@@ -142,7 +142,6 @@
         <source media="(prefers-color-scheme: light)" srcset="./imagens/profile-card.png">
         <img src="./imagens/profile-card.png" alt="Profile card" width="320">
       </picture>
-      
     </td>
     </tr>
 </table>
