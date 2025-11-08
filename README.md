@@ -2,9 +2,9 @@
   <h2 align="center">👋 E aí, eu sou o Lucas!</h2>
 </header>
 
-<main>
-  <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
-    <div style="flex:1;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top">    
       <div class="badges">
         <p>
           <picture id="linux">
@@ -135,16 +135,17 @@
           <li>💬 Pergunte o que quiser <strong>Java, Spring Boot, Docker, AWS, integração de APIs, arquitetura limpa e boas práticas no backend</strong>.</li>
         </ul>
       </div>
-    </div>
-    <div style="flex:0 0 auto;">
+    </td>
+    <td valign="top" width="340" align="right"> 
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./imagens/profile-card.png">
         <source media="(prefers-color-scheme: light)" srcset="./imagens/profile-card.png">
         <img src="./imagens/profile-card.png" alt="Profile card" width="320">
       </picture>
-    </div>
-    </div>
-</main>
+      
+    </td>
+    </tr>
+</table>
 <footer>
   <p class="social-media" align="center">
     <a id="linkedin" href="https://www.linkedin.com/in/lucas-germano-dev/" target="_blank">
