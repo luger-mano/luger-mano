@@ -6,7 +6,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./imagens/profile-card.png">
           <source media="(prefers-color-scheme: light)" srcset="./imagens/profile-card.png">
-          <img src="./imagens/profile-card.png" alt="Profile card">
+          <img src="./imagens/profile-card.png" width="300" height="200" alt="Profile card">
         </picture>
     </div>
     <br>
