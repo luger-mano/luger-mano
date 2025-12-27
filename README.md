@@ -134,7 +134,6 @@
   <br> <div class="description">
     <h3 id="title" align="center">Um pouco sobre mim...</h3>
     <ul id="list">
-      <li>💼 Estou em busca de uma nova oportunidade.</li>
       <li>🚀 Quer construir um sistema comigo? <a href="https://www.linkedin.com/in/lucas-germano-dev/">entre em contato</a>.</li>
       <li>📂 Meu Portfólio e Currículo <a href="https://drive.google.com/drive/folders/1xWBApt-a2NfeCr_H8gF2lfoFk07YKJQD?usp=sharing">por aqui</a>.</li>
       <li>🌙 Um dos criadores do <strong>Luna</strong> <a href="https://github.com/LunaLPWI">repositório</a>.</li>
