@@ -78,10 +78,10 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37">
         <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37" alt="Show a badge">
       </picture>
-      <picture id="kafka">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kafka-F5F5F5?style=flat&logo=apachekafka">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka">
-        <img src="https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka" alt="Show a badge">
+      <picture id="RabbitMQ">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-RabbitMQ-F5F5F5?style=flat&logo=rabbitmq">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq">
+        <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq" alt="Show a badge">
       </picture>
       <picture id="auth0">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Auth0-F5F5F5?style=flat&logo=auth0&logoColor=EB5424">
