@@ -78,6 +78,16 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0&logoColor=EB5424">
         <img src="https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0&logoColor=EB5424" alt="Show a badge">
       </picture>
+      <picture id="gradle">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Gradle-F5F5F5?style=flat&logo=gradle">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle">
+        <img src="https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle" alt="Show a badge">
+      </picture>
+      <picture id="go">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Golang-F5F5F5?style=flat&logo=go">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go">
+        <img src="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go" alt="Show a badge">
+      </picture>
       <picture id="amazon-web-service">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AWS-F5F5F5?style=flat&logo=amazon-aws&logoColor=yellow">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=yellow">
@@ -92,11 +102,6 @@
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Apache-F5F5F5?style=flat&logo=apache&logoColor=black">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache">
         <img src="https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache" alt="Show a badge">
-      </picture>
-      <picture id=".net">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/--F5F5F5?style=flat&logo=dotnet&logoColor=512BD4">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/--05122A?style=flat&logo=dotnet&logoColor=512BD4">
-        <img src="https://img.shields.io/badge/--05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="Show a badge">
       </picture>
       <picture id="kotlin">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kotlin-F5F5F5?style=flat&logo=kotlin">
