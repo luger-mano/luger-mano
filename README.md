@@ -63,11 +63,6 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Solid-05122A?style=flat&logo=solid">
         <img src="https://img.shields.io/badge/-Solid-05122A?style=flat&logo=solid" alt="Show a badge">
       </picture>
-      <picture id="node">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Node.Js-F5F5F5?style=flat&logo=nodedotjs">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=nodedotjs">
-        <img src="https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=nodedotjs" alt="Show a badge">
-      </picture>
       <picture id="postman">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Postman-F5F5F5?style=flat&logo=postman&logoColor=FF6C37">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37">
