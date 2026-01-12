@@ -13,11 +13,6 @@
 
   <div class="badges">
     <p align="center">
-      <picture id="linux">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-F5F5F5?style=flat&logo=linux">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
-        <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
-      </picture>
       <picture id="java">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Java-F5F5F5?style=flat&logo=openjdk">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk">
@@ -58,20 +53,20 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB">
         <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" alt="Show a badge">
       </picture>
-      <picture id="mysql">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-MySQL-F5F5F5?style=flat&logo=mysql">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
-        <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="Show a badge">
+      <picture id="postgresql">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PostgreSQL-F5F5F5?style=flat&logo=postgresql">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">
+        <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="Show a badge">
       </picture>
-      <picture id="openai">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-OpenAI-F5F5F5?style=flat&logo=openai">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai">
-        <img src="https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai" alt="Show a badge">
+      <picture id="solid">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Solid-F5F5F5?style=flat&logo=solid">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Solid-05122A?style=flat&logo=solid">
+        <img src="https://img.shields.io/badge/-Solid-05122A?style=flat&logo=solid" alt="Show a badge">
       </picture>
-      <picture id="python">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Python-F5F5F5?style=flat&logo=python">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
-        <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Show a badge">
+      <picture id="node">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Node.Js-F5F5F5?style=flat&logo=nodedotjs">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=nodedotjs">
+        <img src="https://img.shields.io/badge/-Node.Js-05122A?style=flat&logo=nodedotjs" alt="Show a badge">
       </picture>
       <picture id="postman">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Postman-F5F5F5?style=flat&logo=postman&logoColor=FF6C37">
@@ -127,6 +122,11 @@
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-JavaScript-F5F5F5?style=flat&logo=javascript">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
         <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="Show a badge">
+      </picture>
+      <picture id="linux">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-F5F5F5?style=flat&logo=linux">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
+        <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
       </picture>
     </p>
   </div>
