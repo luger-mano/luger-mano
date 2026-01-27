@@ -73,6 +73,11 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq">
         <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq" alt="Show a badge">
       </picture>
+      <picture id="redis">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Redis-F5F5F5?style=flat&logo=redis">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">
+        <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis" alt="Show a badge">
+      </picture>
       <picture id="auth0">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Auth0-F5F5F5?style=flat&logo=auth0&logoColor=EB5424">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0&logoColor=EB5424">
@@ -107,11 +112,6 @@
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kotlin-F5F5F5?style=flat&logo=kotlin">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin">
         <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin" alt="Show a badge">
-      </picture>
-      <picture id="redis">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Redis-F5F5F5?style=flat&logo=redis">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">
-        <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis" alt="Show a badge">
       </picture>
       <picture id="node.js">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Node.Js-F5F5F5?style=flat&logo=nodedotjs">
