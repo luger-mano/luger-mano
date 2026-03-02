@@ -48,6 +48,11 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
         <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Show a badge">
       </picture>
+      <picture id="kubernetes">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kubernetes-F5F5F5?style=flat&logo=kubernetes">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">
+        <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Show a badge">
+      </picture>
       <picture id="mongo">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-MongoDB-F5F5F5?style=flat&logo=MongoDB">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB">
