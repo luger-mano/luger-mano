@@ -110,14 +110,14 @@
       </picture>
       </picture>
       <picture id="elasticsearch">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Elasticsearch-F5F5F5?logo=elasticsearch&logoColor=fff&style=flat-square">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Elasticsearch-05122A?logo=elasticsearch&logoColor=fff&style=flat-square">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Elasticsearch-F5F5F5?logo=elasticsearch&logoColor=3ABEB1&style=flat-square">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Elasticsearch-05122A?logo=elasticsearch&logoColor=3ABEB1&style=flat-square">
         <img src="https://img.shields.io/badge/Elasticsearch-05122A?logo=elasticsearch&logoColor=fff&style=flat-square" alt="Show a badge">
       </picture>
     </picture>
       <picture id="kibana">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kibana-F5F5F5?logo=kibana&logoColor=fff&style=flat-square">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kibana-05122A?logo=kibana&logoColor=fff&style=flat-square">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kibana-F5F5F5?logo=kibana&logoColor=FE448D&style=flat-square">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kibana-05122A?logo=kibana&logoColor=FE448D&style=flat-square">
         <img src="https://img.shields.io/badge/Kibana-05122A?logo=kibana&logoColor=fff&style=flat-square" alt="Show a badge">
       </picture>
       <picture id="go">
