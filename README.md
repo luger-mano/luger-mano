@@ -33,6 +33,11 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate">
         <img src="https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate" alt="Show a badge">
       </picture>
+      <picture id="apache">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Apache-F5F5F5?style=flat&logo=apache&logoColor=B31F4A">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache&logoColor=B31F4A">
+        <img src="https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache" alt="Show a badge">
+      </picture>
       <picture id="git">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Git-F5F5F5?style=flat&logo=git">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
@@ -83,21 +88,6 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">
         <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis" alt="Show a badge">
       </picture>
-      <picture id="auth0">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Auth0-F5F5F5?style=flat&logo=auth0&logoColor=EB5424">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0&logoColor=EB5424">
-        <img src="https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0&logoColor=EB5424" alt="Show a badge">
-      </picture>
-      <picture id="apache">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Apache-F5F5F5?style=flat&logo=apache&logoColor=black">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache">
-        <img src="https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache" alt="Show a badge">
-      </picture>
-      <picture id="gradle">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Gradle-F5F5F5?style=flat&logo=gradle">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle">
-        <img src="https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle" alt="Show a badge">
-      </picture>
       <picture id="amazon-web-service">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AWS-F5F5F5?style=flat&logo=amazon-aws&logoColor=yellow">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=yellow">
@@ -129,6 +119,11 @@
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kotlin-F5F5F5?style=flat&logo=kotlin">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin">
         <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin" alt="Show a badge">
+      </picture>
+    <picture id="gradle">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Gradle-F5F5F5?style=flat&logo=gradle&logoColor=4AEAB2">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle&logoColor=4AEAB2">
+        <img src="https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle" alt="Show a badge">
       </picture>
       <picture id="node.js">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Node.Js-F5F5F5?style=flat&logo=nodedotjs">
