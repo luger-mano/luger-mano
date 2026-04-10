@@ -128,6 +128,16 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
         <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="Show a badge">
       </picture>
+      <picture id="next.js">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Next.js-F5F5F5?logo=nextdotjs&logoColor=fff&style=flat-square">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-05122A?logo=nextdotjs&logoColor=fff&style=flat-square">
+        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="Show a badge">
+      </picture>
+      <picture id="react.js">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-F5F5F5?logo=react&logoColor=000&style=flat-square">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-05122A?logo=react&logoColor=000&style=flat-square">
+        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="Show a badge">
+      </picture>
       <picture id="linux">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-F5F5F5?style=flat&logo=linux">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
