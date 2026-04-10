@@ -108,6 +108,18 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Github%20Actions-05122A?style=flat&logo=githubactions">
         <img src="https://img.shields.io/badge/-Github%20Actions-05122A?style=flat&logo=githubactions" alt="Show a badge">
       </picture>
+      </picture>
+      <picture id="elasticsearch">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Elasticsearch-F5F5F5?logo=elasticsearch&logoColor=fff&style=flat-square">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Elasticsearch-05122A?logo=elasticsearch&logoColor=fff&style=flat-square">
+        <img src="https://img.shields.io/badge/Elasticsearch-05122A?logo=elasticsearch&logoColor=fff&style=flat-square" alt="Show a badge">
+      </picture>
+    </picture>
+      <picture id="kibana">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kibana-F5F5F5?logo=kibana&logoColor=fff&style=flat-square">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kibana-05122A?logo=kibana&logoColor=fff&style=flat-square">
+        <img src="https://img.shields.io/badge/Kibana-05122A?logo=kibana&logoColor=fff&style=flat-square" alt="Show a badge">
+      </picture>
       <picture id="go">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Golang-F5F5F5?style=flat&logo=go">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go">
@@ -131,12 +143,12 @@
       <picture id="next.js">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Next.js-F5F5F5?logo=nextdotjs&logoColor=fff&style=flat-square">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-05122A?logo=nextdotjs&logoColor=fff&style=flat-square">
-        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="Show a badge">
+        <img src="https://img.shields.io/badge/Next.js-05122A?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Show a badge">
       </picture>
       <picture id="react.js">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-F5F5F5?logo=react&logoColor=000&style=flat-square">
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-05122A?logo=react&logoColor=61DAFB&style=flat-square">
-        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="Show a badge">
+        <img src="https://img.shields.io/badge/React-05122A?logo=react&logoColor=61DAFB&style=flat-square" alt="Show a badge">
       </picture>
       <picture id="linux">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-F5F5F5?style=flat&logo=linux">
