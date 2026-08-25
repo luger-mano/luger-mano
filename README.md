@@ -158,7 +158,7 @@
     <ul id="list">
       <li>🚀 Quer construir um sistema comigo? <a href="https://www.linkedin.com/in/lucas-germano-dev/">entre em contato</a>.</li>
       <li>📂 Meu Portfólio e Currículo <a href="https://drive.google.com/drive/folders/1xWBApt-a2NfeCr_H8gF2lfoFk07YKJQD?usp=sharing">por aqui</a>.</li>
-      <li>🌙 Um dos criadores do <strong>Luna</strong> <a href="https://github.com/LunaLPWI">repositório</a>.</li>
+      <li>🩸 CTO do <strong>Onde Doar</strong> <a href="https://github.com/luger-mano/OndeDoarInst">repositório</a>.</li>
       <li>💬 Pergunte o que quiser <strong>Java, Spring Boot, Docker, AWS, integração de APIs, arquitetura limpa e boas práticas no backend</strong>.</li>
     </ul>
   </div>
